@@ -14,5 +14,5 @@
 </p>
 
 
-<p align="center" >![Rumeysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumeysaAlkayis&show_icons=true&theme=gruvbox) </p>
+<a align="center" >![Rumeysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumeysaAlkayis&show_icons=true&theme=gruvbox) </a>
 
