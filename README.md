@@ -13,7 +13,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumeysaAlkayis&layout=compact&theme=synthwave)](https://github.com/RumeysaAlkayis/github-readme-stats)
+
 
 
 ![Rumeysa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumeysaAlkayis&show_icons=true&theme=gruvbox)
